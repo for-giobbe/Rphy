@@ -2,7 +2,7 @@
 
 ![alt text](https://evolution.berkeley.edu/wp-content/uploads/2021/11/YAH_eurayotes_05_YAH_eurayotes.png)
 
-##0 - [Requirements](https://github.com/for-giobbe/Rphy/blob/main/markdowns/0.md)
+*0 - [Requirements](https://github.com/for-giobbe/Rphy/blob/main/markdowns/0.md)*
 
 ##1 - [Multiple Sequence Alignement & Filtering](https://github.com/for-giobbe/Rphy/blob/main/markdowns/1.md)
 
