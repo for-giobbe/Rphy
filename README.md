@@ -10,10 +10,10 @@
 
 3 - [Inferring BI phylogenies]()
 
-4 - [Building a Timetree](featuring Andrea Silverj)
+4 - [Building a Timetree]() - featuring Andrea Silverj
 
 5 - [Modelling Trait Evolution Pt. 1 - Continuous Traits]()
 
 6 - [Modelling Trait Evolution Pt. 2 - Discrete Traits ]()
 
-7 - [Seminar on Viral Evolution](by Andrea Silverj)
+7 - [Seminar on Viral Evolution]() - by Andrea Silverj
