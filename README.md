@@ -12,10 +12,10 @@
 
 **4 - [Building a Timetree]() - featuring Andrea Silverj**
 
-**5 - [The systematic bias a.k.a. when phylogenetics does not work]()**
+**5 - [The Systematic Biases a.k.a. when phylogenetics does not work]()**
 
 **6 - [Modelling Trait Evolution Pt. 1 - Continuous Traits]()**
 
 **7 - [Modelling Trait Evolution Pt. 2 - Discrete Traits ]()**
 
-**bonus - [Seminar on Viral Evolution]() - by Andrea Silverj**
+**extra - [Phylogenetics in Real Life - Seminar on Viral Evolution]() - by Andrea Silverj**
