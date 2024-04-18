@@ -1,4 +1,4 @@
-# Inferring Phylogenies and Trait Evolution in R:
+# Inferring Phylogenies and Trait Evolution in R (mostly):
 
 ![alt text](https://evolution.berkeley.edu/wp-content/uploads/2021/11/YAH_eurayotes_05_YAH_eurayotes.png)
 
@@ -12,8 +12,10 @@
 
 **4 - [Building a Timetree]() - featuring Andrea Silverj**
 
-**5 - [Modelling Trait Evolution Pt. 1 - Continuous Traits]()**
+**5 - [The systematic bias a.k.a. when phylogenetics does not work]()**
 
-**6 - [Modelling Trait Evolution Pt. 2 - Discrete Traits ]()**
+**6 - [Modelling Trait Evolution Pt. 1 - Continuous Traits]()**
 
-**7 - [Seminar on Viral Evolution]() - by Andrea Silverj**
+**7 - [Modelling Trait Evolution Pt. 2 - Discrete Traits ]()**
+
+**bonus - [Seminar on Viral Evolution]() - by Andrea Silverj**
