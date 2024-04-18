@@ -1,6 +1,4 @@
-#Inferring Phylogenies and trait evolution in R
-
-Syllabus:
+# Inferring phylogenies and trait evolution in R:
 
 0 - [requirements]()
 
