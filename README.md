@@ -6,11 +6,11 @@
 
 **1 - [Multiple Sequence Alignement & Filtering](https://github.com/for-giobbe/Rphy/blob/main/markdowns/1.md)**
 
-**2 - [Inferring ML phylogenies]()**
+**2 - [Inferring distance-based phylogenies](https://github.com/for-giobbe/Rphy/blob/main/markdowns/2.md)**
 
-**3 - [Inferring BI phylogenies]()**
+**3 - [Inferring ML phylogenies]()**
 
-**4 - [Building a Timetree]() - featuring Andrea Silverj**
+**4 - [Building a Timetree]()**
 
 **5 - [The Systematic Biases a.k.a. when phylogenetics does not work]()**
 
