@@ -12,8 +12,4 @@
 
 **4 - [Building a Timetree - by Andrea Silverj](https://github.com/for-giobbe/Rphy/blob/main/markdowns/4.md)**
 
-**5 - [The Systematic Biases a.k.a. when phylogenetics does not work](https://github.com/for-giobbe/Rphy/blob/main/markdowns/5.md)**
-
-**6 - [Modelling Trait Evolution Pt. 1 - Continuous Traits](https://github.com/for-giobbe/Rphy/blob/main/markdowns/6.md)**
-
-**7 - [Modelling Trait Evolution Pt. 2 - Discrete Traits ](https://github.com/for-giobbe/Rphy/blob/main/markdowns/7.md)**
+**5 - [Modelling Trait Evolution Pt. 1 - Continuous Traits](https://github.com/for-giobbe/Rphy/blob/main/markdowns/5.md)**
