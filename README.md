@@ -8,8 +8,8 @@
 
 **2 - [Inferring Distance-Based and Character-based Phylogenies](https://github.com/for-giobbe/Rphy/blob/main/markdowns/2.md)**
 
-**3 - [Inferring ML phylogenies](https://github.com/for-giobbe/Rphy/blob/main/markdowns/3.md)**
+**3 - [Inferring Maximum Likelihood phylogenies](https://github.com/for-giobbe/Rphy/blob/main/markdowns/3.md)**
 
-**4 - [Building a Timetree - by Andrea Silverj](https://github.com/for-giobbe/Rphy/blob/main/markdowns/4.md)**
+**4 - [Building a Timetree using Bayesian Inference - by Andrea Silverj](https://github.com/for-giobbe/Rphy/blob/main/markdowns/4.md)**
 
 **5 - [Modelling Trait Evolution](https://github.com/for-giobbe/Rphy/blob/main/markdowns/5.md)**
